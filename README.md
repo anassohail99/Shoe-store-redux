@@ -3,7 +3,7 @@
 This simple application prototype shows how we can use React and Redux to build a friendly user experience with instant visual updates.
 
 ## Demo
-[Here](https://my-shopping-cart-leawwzhsmf.now.sh/)
+[Here]()
 
 ## Features
 * Add and remove items 
@@ -26,4 +26,4 @@ npm install
 ```bash
 npm start
 ```
-The application will start automatically in your browser on http://localhost:3000
+
