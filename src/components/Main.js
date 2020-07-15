@@ -16,17 +16,29 @@ const Main = () => {
           </a>
         </li>
         <li>
-          <a href="#" rel="noopener noreferrer" target="_blank">
+          <a
+            href="https://www.facebook.com/anas.b.sohail"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
             <i className="fab fa-facebook" />
           </a>
         </li>
         <li>
-          <a href="#" rel="noopener noreferrer" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/anas-bin-sohail-3a6168168/"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
             <i class="fab fa-linkedin" />
           </a>
         </li>
         <li>
-          <a href="#" rel="noopener noreferrer" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/anas-bin-sohail-3a6168168/"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
             <i className="fab fa-twitter" />
           </a>
         </li>
