@@ -3,7 +3,7 @@
 This simple application prototype shows how we can use React and Redux and Router V6 to build a friendly user experience with instant visual updates.
 
 ## Demo
-[Here]()
+[Here](http://shoes-store-p3.surge.sh)
 
 ## Features
 * Add and remove items 
